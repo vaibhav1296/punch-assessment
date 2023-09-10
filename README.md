@@ -10,12 +10,18 @@ Later you can do different queries to know about a persons detail
 ## Basic Queries
 
 FOR ADDING A PERSON:          add person ***name***
+
 FOR ADDING RELATIONSHIP:      add relationship ***name***
+
 FOR CONNECTION:               connect ***name1*** as ***relationship name*** of ***name2***
+
 FOR COUNT QUERY:              count sons of ***name***
+
                               count wives of ***name***
                               count daughters of ***name***
+
 FOR FATHER QUERY:             father of ***name***
+
 FOR HUSBAND QUERY:            husband of ***name***
 
 
